@@ -1,4 +1,4 @@
-Watch me explain this lab: [LoomLink](PASTE-VIDEO-LINK-HERE)
+Watch me explain this lab: [LoomLink](https://www.loom.com/share/cc4a9188c99f4234b87d4653586f0ce7)
 
 # azure-static-website-blob-storage
 
